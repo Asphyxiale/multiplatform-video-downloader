@@ -65,6 +65,7 @@ npm install
 npm start
 ```
 The downloader is now ready to use.
+
 ---
 ## Legal Notice
 This tool is intended for **personal and educational use only**.
