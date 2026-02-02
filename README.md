@@ -5,13 +5,13 @@ A **Node.js–based multi-platform video and audio downloader** with first-class
 This project leverages **yt-dlp** for extraction and **FFmpeg** for audio processing and video remuxing, ensuring high compatibility and quality.
 
 ---
-## ✨ Features
-* 📥 Download videos from:
+## Features
+* Download videos from:
   * TikTok
   * Instagram
   * YouTube
-* 🎧 Audio extraction
-* 🖥️ Cross-platform (Windows, macOS, Linux)
+* Audio extraction
+* Cross-platform (Windows, macOS, Linux)
 
 > Availability depends on yt-dlp support and platform restrictions.
 
